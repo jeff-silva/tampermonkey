@@ -1,8 +1,8 @@
 // ==UserScript==
-// @name         Test
+// @name         vue-iframe
 // @namespace    http://tampermonkey.net/
 // @version      0.1
-// @description  Test script
+// @description  vue-iframe
 // @author       Jeff Silva (https://github.com/jeff-silva)
 // @match        *://*/*
 // @icon         https://cdn-icons-png.flaticon.com/512/616/616423.png

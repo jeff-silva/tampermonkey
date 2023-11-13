@@ -6,6 +6,7 @@
 // @author       Jeff Silva (https://github.com/jeff-silva)
 // @match        *://*/*
 // @icon         https://cdn-icons-png.flaticon.com/512/616/616423.png
+// @updateURL    https://github.com/jeff-silva/tampermonkey/raw/main/vue-iframe.user.js
 // @grant        unsafeWindow
 // @grant        GM.addElement
 // @require      https://unpkg.com/vue@3/dist/vue.global.js

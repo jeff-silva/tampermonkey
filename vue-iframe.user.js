@@ -28,4 +28,5 @@ const createElement = (tagName, attributes = {}) => {
   document.body.appendChild(iframe);
 
   console.log(iframe.contentWindow.document.body);
+  console.log("aaa");
 })();
